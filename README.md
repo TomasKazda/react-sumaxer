@@ -19,14 +19,14 @@ Vedle herní plochy je balík (AsideDeck) s kopií právě vybraných karet = ot
 
 # Herní mechanismy
 
-- Na začátku hry jsou zobrazeny výchozí hodnoty statistik
- ![](Img1.jpg)
-- Po zvolení první karty se tato otočí, zobrazí v seznamu vybraných (zde vlevo) a statistiky se aktualizují
- ![](Img2.jpg)
-- Pokud jsou vybrány čtyři karty, nelze další otočit
- ![](Img3.jpg)
-- Na konci posledního tahu je indikován konec zvýrazněním statistik; s kartami již není možné manipulovat
- ![](Img4.jpg)
+- Na začátku hry jsou zobrazeny výchozí hodnoty statistik  
+![](Img1.jpg)
+- Po zvolení první karty se tato otočí, zobrazí v seznamu vybraných (zde vlevo) a statistiky se aktualizují  
+![](Img2.jpg)
+- Pokud jsou vybrány čtyři karty, nelze další otočit  
+![](Img3.jpg)
+- Na konci posledního tahu je indikován konec zvýrazněním statistik; s kartami již není možné manipulovat  
+![](Img4.jpg)
 
 # Pravidla
 
