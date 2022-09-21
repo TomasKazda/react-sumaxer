@@ -38,16 +38,16 @@ Hodnotí se nejen funkčnost programu, ale i využití obvyklých konvencí při
 
 # Tipy
 
-Vhodnou strukturu pro „mainState" State si vytvoříte:
-const initialState = game.initGame();
+Vhodnou strukturu pro „mainState" *State* si vytvoříte:
+``const initialState = game.initGame();``
 
 Obnovit stav hry lze např. odesláním celého mainState do konstruktoru herní třídy:
-let hra = new game(mainState);
+``let hra = new game(mainState);``
 
-Metodou hra.Turn(6) realizujete jeden tah – otočení karty s hodnotou 6
+Metodou ``hra.Turn(6)`` realizujete jeden tah – otočení karty s hodnotou **6**
 
-Karta je otočena lícem: \<figure className="item selected"\>
+Karta je otočena lícem: ``<figure className="item selected"\>``
 
-Karta je otočena rubem: \<figure className="item"\>
+Karta je otočena rubem: ``<figure className="item"\>``
 
-Konec hry lze vizualizovat přidáním třídy endGame: \<aside className="stats endGame"\>
+Konec hry lze vizualizovat přidáním třídy endGame: ``<aside className="stats endGame"\>``
